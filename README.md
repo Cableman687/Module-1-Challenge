@@ -11,7 +11,7 @@ This repository will act as a location for the completed Module #1 Challenge, wi
 The use will be for the assessment of this challenge by the tutors, as well as a reference point for any future learning.
 
 ## License
-None
+MIT
 
 # Features
 - HTML Webpage
