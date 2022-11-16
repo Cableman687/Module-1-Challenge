@@ -70,11 +70,10 @@ a {
     max-height: 200px;
 }
 
-.background {
+.background img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
