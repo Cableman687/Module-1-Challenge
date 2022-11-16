@@ -17,6 +17,8 @@ MIT
 - HTML Webpage
 https://cableman687.github.io/module-1-challenge/
 
+![Screenshot](assets/01-html-css-git-homework-demo)
+
 ## Contributions
 This repository is not for public contribution.
 
