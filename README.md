@@ -15,7 +15,7 @@ None
 
 # Features
 - HTML Webpage
-https://cableman687.github.io/Module-1-Challenge/
+https://cableman687.github.io/module-1-challenge/
 
 ## Contributions
 This repository is not for public contribution.
